@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/junnydev/Desktop/Dental-CenterPYT2/app/layout\":[\"static/media/1cb6ed0b6d6c12d3-s.p.woff2\",\"static/media/290ac9142d2f94fc-s.p.woff2\",\"static/media/4ca89330228eeb56-s.p.woff2\",\"static/media/abd42f202d08c5a5-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
